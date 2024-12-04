@@ -6,3 +6,5 @@
 2. run command `node solution.js`
 
 ### Days track:
+
+- [x] [Day 1: Historian Hysteria](https://github.com/kkiaune/aoc-2024/tree/main/1-day)
