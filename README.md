@@ -9,4 +9,5 @@
 
 - [x] [Day 1: Historian Hysteria](https://github.com/kkiaune/aoc-2024/tree/main/day-1)
 - [x] [Day 2: Red-Nosed Reports](https://github.com/kkiaune/aoc-2024/tree/main/day-2)
-- [] [Day 3: Mull It Over](https://github.com/kkiaune/aoc-2024/tree/main/day-3)
+- [x] [Day 3: Mull It Over](https://github.com/kkiaune/aoc-2024/tree/main/day-3)
+- [] [Day 4: Ceres Search](https://github.com/kkiaune/aoc-2024/tree/main/day-4)
