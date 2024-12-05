@@ -7,5 +7,6 @@
 
 ### Days track:
 
-- [x] [Day 1: Historian Hysteria](https://github.com/kkiaune/aoc-2024/tree/main/1-day)
-- [x] [Day 2: Red-Nosed Reports](https://github.com/kkiaune/aoc-2024/tree/main/2-day)
+- [x] [Day 1: Historian Hysteria](https://github.com/kkiaune/aoc-2024/tree/main/day-1)
+- [x] [Day 2: Red-Nosed Reports](https://github.com/kkiaune/aoc-2024/tree/main/day-2)
+- [] [Day 3: Mull It Over](https://github.com/kkiaune/aoc-2024/tree/main/day-3)
